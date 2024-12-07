@@ -1,0 +1,17 @@
+clases_vehiculo:
+  - moto
+  - carro
+  - taxi
+  - emergencia
+  - grua
+  - camionL
+  - camionP
+clases_placas:
+  - placa
+clases_accesorios_moto:
+  - casco
+  - nocasco
+clases_accesorios_vhls:
+  - cinturon1
+  - cinturon2
+  - nocinturon

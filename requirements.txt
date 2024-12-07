@@ -1,0 +1,9 @@
+fastapi[all]
+pillow
+torch==2.5.1
+lmdb
+torchvision==0.20.1
+natsort
+numpy==1.26.4
+ultralytics~=8.3.27
+pymongo
